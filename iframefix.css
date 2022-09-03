@@ -1,0 +1,4 @@
+iframe[data-v-372aada4]
+{
+    height : calc(100% - var(--footer-height) + 1.5rem)
+}
